@@ -60,3 +60,7 @@ components/
 sections/
 assets/
 data/
+
+## 🚀 Live Portfolio
+
+[Visit Live Portfolio](https://dhruv-3d-portfolio.vercel.app)
