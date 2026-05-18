@@ -1,20 +1,62 @@
-<<<<<<< HEAD
-# React + Vite
+# Dhruv Pathak — Futuristic 3D Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium futuristic 3D full stack developer portfolio built using modern frontend technologies including React, Vite, Three.js, React Three Fiber, Framer Motion, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 🚀 Live Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Coming Soon...
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Futuristic cinematic UI/UX
+- Advanced 3D animations
+- React Three Fiber integration
+- Smooth Framer Motion transitions
+- Interactive project showcase
+- Responsive modern design
+- Dynamic scroll animations
+- Glassmorphism interface
+- AI-inspired futuristic aesthetics
+- Fully optimized performance
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# dhruv-3d-portfolio
->>>>>>> f6cc4ab7c35dfbe3fa0c2f2f0c200383eb0d6580
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- Tailwind CSS
+- Framer Motion
+
+### 3D & Animations
+- Three.js
+- React Three Fiber
+- Drei
+- GSAP
+
+### Backend Knowledge
+- Node.js
+- Express.js
+- MongoDB
+
+### AI Tools
+- GitHub Copilot
+- Cursor
+- OpenAI APIs
+- Google Stitch
+- Antigravity AI
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+public/
+components/
+sections/
+assets/
+data/
