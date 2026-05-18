@@ -4,7 +4,9 @@ A premium futuristic 3D full stack developer portfolio built using modern fronte
 
 ## 🚀 Live Portfolio
 
-Coming Soon...
+
+
+[Visit Live Portfolio](https://dhruv-3d-portfolio.vercel.app)
 
 ---
 
@@ -61,6 +63,3 @@ sections/
 assets/
 data/
 
-## 🚀 Live Portfolio
-
-[Visit Live Portfolio](https://dhruv-3d-portfolio.vercel.app)
