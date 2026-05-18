@@ -1,0 +1,98 @@
+[
+  {
+    "viewport": "desktop",
+    "screenshotPath": "test-results/portfolio-desktop.png",
+    "canvas": {
+      "present": true,
+      "elementWidth": 632,
+      "elementHeight": 660,
+      "screenshotPath": "test-results/canvas-desktop.png",
+      "width": 531,
+      "height": 436,
+      "alphaPixels": 231516,
+      "colorfulPixels": 197468,
+      "lumaRange": 765
+    },
+    "sections": [
+      {
+        "id": "about",
+        "present": true,
+        "height": 1086
+      },
+      {
+        "id": "skills",
+        "present": true,
+        "height": 1516
+      },
+      {
+        "id": "experience",
+        "present": true,
+        "height": 1061
+      },
+      {
+        "id": "projects",
+        "present": true,
+        "height": 1224
+      },
+      {
+        "id": "certifications",
+        "present": true,
+        "height": 727
+      },
+      {
+        "id": "contact",
+        "present": true,
+        "height": 1058
+      }
+    ],
+    "horizontalOverflow": 0
+  },
+  {
+    "viewport": "mobile",
+    "screenshotPath": "test-results/portfolio-mobile.png",
+    "canvas": {
+      "present": true,
+      "elementWidth": 390,
+      "elementHeight": 450,
+      "screenshotPath": "test-results/canvas-mobile.png",
+      "width": 656,
+      "height": 280,
+      "alphaPixels": 183680,
+      "colorfulPixels": 176065,
+      "lumaRange": 665
+    },
+    "sections": [
+      {
+        "id": "about",
+        "present": true,
+        "height": 2078
+      },
+      {
+        "id": "skills",
+        "present": true,
+        "height": 1947
+      },
+      {
+        "id": "experience",
+        "present": true,
+        "height": 1339
+      },
+      {
+        "id": "projects",
+        "present": true,
+        "height": 2642
+      },
+      {
+        "id": "certifications",
+        "present": true,
+        "height": 1277
+      },
+      {
+        "id": "contact",
+        "present": true,
+        "height": 1410
+      }
+    ],
+    "horizontalOverflow": 0
+  }
+]

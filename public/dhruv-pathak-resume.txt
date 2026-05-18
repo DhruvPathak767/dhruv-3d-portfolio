@@ -1,0 +1,66 @@
+Dhruv Pathak
+Full Stack Web Developer
+
+Subtitle
+Building scalable MERN stack applications with AI-powered development tools.
+
+Contact
+Phone: 9724441255
+Email: dhruvapathak767@gmail.com
+Location: India
+
+Skills
+Frontend: HTML5, CSS3, JavaScript, Bootstrap, React.js, Tailwind CSS, Framer Motion
+Backend: Node.js, Express.js, REST APIs
+Database: MongoDB
+AI Tools: GitHub Copilot, Cursor, OpenAI API (Basics)
+Tools & Platforms: Git, GitHub, VS Code, Postman, Render
+
+Experience
+Hackathon Participant
+Duration: 01/2023 – 12/2025
+- Participated in multiple hackathons building innovative MERN stack solutions
+- Applied AI tools to improve development efficiency and rapid prototyping
+- Collaborated in agile environments under tight deadlines
+
+Backend Developer Team Member
+Organization: Code Vimarsh
+Location: Vadodara, India
+Duration: 01/2026 – Present
+- Developed backend systems using Node.js and Express.js
+- Worked with cross-functional teams on full stack projects
+- Used AI tools like GitHub Copilot and Cursor to accelerate development
+- Contributed to scalable coding projects for Code Vimarsh
+
+Projects
+HOPEBACK – Donation Management System
+Tech Stack: HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js
+Description: Built a full-stack donation management system with authentication and backend integration.
+Additional Details:
+- Used AI tools like GitHub Copilot and Cursor
+- Focused on clean development workflow
+- Implemented backend services and data flow management
+
+Code Vimarsh Website
+Description: Developed the official coding club website with user-focused design and scalable architecture.
+Live Link: http://code-vimarsh.onrender.com
+Features:
+- Full stack development
+- Responsive UI
+- Modern web architecture
+- AI-assisted workflow optimization
+
+Upcoming AI-powered SaaS Projects
+
+Certifications
+Ingenious Hackathon 7.0
+Ahmedabad University
+03/2026
+
+Indigenous Hackathon
+Navrachna University
+10/2025
+
+HACKaMINeD Hackathon 2026
+Nirma University Baroda
+03/2026
